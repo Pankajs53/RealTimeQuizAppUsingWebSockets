@@ -1,0 +1,4 @@
+maintain two redux store one for 
+1. user (will consist authentication and authoriazation)
+2. question (will hold the question so that we dont have to peform prop drilling)
+3. laoding 

@@ -1,0 +1,16 @@
+# models:
+1. For question and categories -> in question index,question,[options],answer and in categories we will have reference of question model and category name
+2. For user : name,email,password
+3. For chat room -> chatId,members, creator
+// we can also create model for storing the chat room messages in backend
+
+
+// APis:
+1. Login
+2. Signup
+3. create room
+4. creating categories for question
+5. storing questions
+6. adding members in chatroom
+// receving question from frontend api in this we will send questions to other sockets
+// receving the score from frotend of all sockets and showing it in our screen or instructor
